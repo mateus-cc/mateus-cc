@@ -4,7 +4,7 @@
 <div>
   <a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateus-cc&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/mateus-cc/github-readme-stats#gh-dark-mode-only"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-cc&layout=donut)](https://github.com/anuraghazra/github-readme-stats"
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateus-cc&layout=donut)](https://github.com/mateus-cc/github-readme-stats"
 </div>
 
 
