@@ -1,4 +1,5 @@
-## Olá. Me chamo Mateus Costa, sou Dev Front-End com foco em React, Bootstrap, JavaScript e esse é meu GitHub.
+## Olá. Me chamo Mateus Costa, sou Dev Front-End.
+### Foco em React, Bootstrap, JavaScript e esse é meu GitHub.
 
 <div>
   <a>
